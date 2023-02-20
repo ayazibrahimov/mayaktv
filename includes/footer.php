@@ -11,10 +11,10 @@
                     <div class="col-lg-9 col-md-8">
                         <div class="footer__social">
                             <ul class="list-wrap">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i> Facebook <span>25K</span></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i> Twitter <span>44K</span></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i> Youtube <span>91K</span></a></li>
-                                <li><a href="#"><i class="fa-brands fa-tiktok"></i> Tiktok <span>5K</span></a></li>
+                                <li><a href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f"></i> Facebook <span>25K</span></a></li>
+                                <li><a href="https://www.instagram.com/mayaktvaz/"><i class="fab fa-instagram"></i> Twitter <span>44K</span></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCR_UrCHiwmjYr87C2e8Ujtw"><i class="fab fa-youtube"></i> Youtube <span>91K</span></a></li>
+                                <li><a href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok"></i> Tiktok <span>5K</span></a></li>
                             </ul>
                         </div>
                     </div>

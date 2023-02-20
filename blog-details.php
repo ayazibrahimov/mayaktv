@@ -267,10 +267,10 @@
                                 <div class="sidebarInsta__wrap">
                                     <div class="sidebarInsta__top">
                                         <div class="sidebarInsta__logo">
-                                            <img src="assets/img/imgdatas/mayak-mini.jpg" alt="img">
+                                            <img src="assets/img/imgdatas/roundedLogo.png" alt="img">
                                         </div>
                                         <div class="sidebarInsta__info">
-                                            <h6 class="name"><a href="https://www.instagram.com/mayaktvaz/">mayaktvaz</a></h6>
+                                            <h6 class="name"><a href="https://www.instagram.com/mayaktvaz/">mayaktv.az</a></h6>
                                             <!-- <span class="designation">Code Supply Co.</span> -->
                                         </div>
                                     </div>
@@ -309,7 +309,7 @@
                                         </div>
                                     </div>
                                     <div class="sidebarInsta__bottom">
-                                        <a href="https://www.instagram.com/mayaktvaz/" target="_blank" class="btn"><i class="fab fa-instagram"></i><span class="text">Bizi izləyin</span></a>
+                                        <a href="https://www.instagram.com/mayaktvaz/" target="_blank" class="btn"><i class="fab fa-instagram"></i><span class="text">BİZİ İZLƏYİN.</span></a>
                                     </div>
                                 </div>
                             </div>

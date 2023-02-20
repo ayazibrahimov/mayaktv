@@ -69,10 +69,10 @@
                     <div class="col-xl-9 col-lg-8">
                         <div class="footer__social">
                             <ul class="list-wrap">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i> Facebook <span>25K</span></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i> Instagram <span>44K</span></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i> Youtube <span>91K</span></a></li>
-                                <li><a href="#"><i class="fa-brands fa-tiktok"></i> Tiktok <span>91K</span></a></li>
+                                <li><a href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f"></i> Facebook <span>25K</span></a></li>
+                                <li><a href="https://www.instagram.com/mayaktvaz/"><i class="fab fa-instagram"></i> Instagram <span>44K</span></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCR_UrCHiwmjYr87C2e8Ujtw"><i class="fab fa-youtube"></i> Youtube <span>91K</span></a></li>
+                                <li><a href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok"></i> Tiktok <span>91K</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -143,11 +143,11 @@
                                 </div>
                                 <div class="social-links">
                                     <ul class="list-wrap">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/mayaktvaz/"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UCR_UrCHiwmjYr87C2e8Ujtw"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok"></i></a></li>
+                                         
                                     </ul>
                                 </div>
                             </nav>
@@ -179,17 +179,17 @@
                     </ul>
                 </div>
                 <div class="offCanvas__contact">
-                    <h4 class="title">Get In Touch</h4>
+                    <h4 class="title">Bizimlə Əlaqə</h4>
                     <ul class="offCanvas__contact-list list-wrap">
                         <li><i class="fas fa-envelope-open"></i><a href="mailto:info@webmail.com">info@webmail.com</a></li>
                         <li><i class="fas fa-phone"></i><a href="tel:88899988877">888 999 888 77</a></li>
                         <li><i class="fas fa-map-marker-alt"></i> 12/A, New Booston, NYC</li>
                     </ul>
                     <ul class="offCanvas__social list-wrap">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.instagram.com/mayaktvaz/"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCR_UrCHiwmjYr87C2e8Ujtw"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok"></i></a></li>
                     </ul>
                 </div>
             </div>
