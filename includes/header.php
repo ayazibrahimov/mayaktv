@@ -181,9 +181,9 @@
                 <div class="offCanvas__contact">
                     <h4 class="title">Bizimlə Əlaqə</h4>
                     <ul class="offCanvas__contact-list list-wrap">
-                        <li><i class="fas fa-envelope-open"></i><a href="mailto:info@webmail.com">info@webmail.com</a></li>
-                        <li><i class="fas fa-phone"></i><a href="tel:88899988877">888 999 888 77</a></li>
-                        <li><i class="fas fa-map-marker-alt"></i> 12/A, New Booston, NYC</li>
+                        <li><i class="fas fa-envelope-open"></i><a href="mailto:mayaktvofficial@gmail.com">mayaktvofficial@gmail.com</a></li>
+                        <li><i class="fas fa-phone"></i><a href="tel:+994 70 379 97 02">+994 70 379 97 02</a></li>
+                        <!-- <li><i class="fas fa-map-marker-alt"></i> 12/A, New Booston, NYC</li> -->
                     </ul>
                     <ul class="offCanvas__social list-wrap">
                         <li><a href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f"></i></a></li>

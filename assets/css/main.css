@@ -1763,7 +1763,7 @@ input[type=color] {
   margin: auto;
   top: 0;
   width: 100%;
-  z-index: 99;
+  z-index: 555;
   background: var(--tg-common-color-gray);
   -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
   animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
@@ -4045,9 +4045,25 @@ input[type=color] {
   overflow-x: hidden;
   overflow-y: scroll;
 }
+.video__scroll--blog{
+  height: 35rem;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
 
 
-.video__scroll::-webkit-scrollbar{
+.video__scroll--blog::-webkit-scrollbar{
+  width: .5em;
+}
+
+.video__scroll--blog::-webkit-scrollbar-track{
+  -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+.video__scroll--blog::-webkit-scrollbar-thumb{
+  background-color: rgb(189, 187, 187);
+  /* outline: 1px solid slategrey; */
+}
+.video__scroll--blog::-webkit-scrollbar{
   width: .5em;
 }
 
@@ -4185,7 +4201,7 @@ input[type=color] {
 .video__post-item.side-post .video__post-content .title {
   font-size: 15px;
   line-height: 1.4;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 
 /* @media (max-width: 576px){
@@ -4257,10 +4273,10 @@ input[type=color] {
   border-radius: 50%;
   z-index: 1;
 }
-.stories-video-post .stories-post__thumb .popup-video:hover {
+/* .stories-video-post .stories-post__thumb .popup-video:hover {
   background: var(--tg-theme-primary);
   color: var(--tg-common-color-white);
-}
+} */
 .stories-video-post .stories-post__thumb:hover img {
   -webkit-transform: scale(1.05);
   -moz-transform: scale(1.05);
@@ -6959,7 +6975,19 @@ blockquote .blockquote-cite .info span {
   background: var(--tg-theme-secondary);
   opacity: 0.35;
   z-index: 1;
+}
 
+.myOverlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--tg-theme-secondary);
+  opacity: 0.35;
+  z-index: 1;
 }
 
 
@@ -7030,11 +7058,31 @@ blockquote .blockquote-cite .info span {
 }
 
 
+.videoes__play--btn{
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  z-index: 99;
+}
 
 
+.trending__post:hover .videoes__play--btn{
+  background: rgb(255,255,255);
+}
 
 
-
+.video__detail--youtobe iframe{
+  width: 100%;
+}
 
 
 

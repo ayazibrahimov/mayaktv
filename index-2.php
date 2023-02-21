@@ -295,7 +295,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="section__read-more text-start text-sm-end">
-                                <a href="news.php">Oxşar Xəbərlər<i class="far fa-long-arrow-right"></i></a>
+                                <a href="conversation.php">Bütün Xəbərlər<i class="far fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -307,7 +307,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                         </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -318,10 +320,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -331,7 +333,10 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-10.jpg" alt="img"></a>
+                                        <a href="video-details.php">
+                                            <img src="assets/img/imgdatas/news-10.jpg" alt="img">
+                                            <div class="videoes__play--btn"><i class="fas fa-play"></i></div> 
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -342,10 +347,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -355,7 +360,10 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-11.jpg" alt="img"></a>
+                                        <a href="video-details.php">
+                                            <img src="assets/img/imgdatas/news-11.jpg" alt="img">
+                                            <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -366,10 +374,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -379,7 +387,10 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-12.jpg" alt="img"></a>
+                                        <a href="video-details.php">
+                                            <img src="assets/img/imgdatas/news-12.jpg" alt="img">
+                                            <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -390,10 +401,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi - Canlı</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi - Canlı</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -403,7 +414,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -414,10 +427,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -427,7 +440,10 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-10.jpg" alt="img"></a>
+                                        <a href="video-details.php">
+                                            <img src="assets/img/imgdatas/news-10.jpg" alt="img">
+                                            <div class="videoes__play--btn"><i class="fas fa-play"></i></div> 
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -438,10 +454,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -451,7 +467,10 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-11.jpg" alt="img"></a>
+                                        <a href="video-details.php">
+                                            <img src="assets/img/imgdatas/news-11.jpg" alt="img">
+                                            <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -462,10 +481,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -475,7 +494,10 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-12.jpg" alt="img"></a>
+                                        <a href="video-details.php">
+                                            <img src="assets/img/imgdatas/news-12.jpg" alt="img">
+                                            <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -486,10 +508,10 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi - Canlı</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi - Canlı</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -519,7 +541,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="section__read-more text-start text-sm-end">
-                                <a href="news.php">Oxşar Xəbərlər <i class="far fa-long-arrow-right"></i></a>
+                                <a href="conversation.php">Oxşar Xəbərlər <i class="far fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -528,8 +550,11 @@
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
-                                <a href="https://www.youtube.com/watch?v=FT3ODSg1GFE" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="video-details.php">
+                                    <img src="assets/img/imgdatas/news-1.jpg" alt="img">
+                                    <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
+                                </a>
+                                <!-- <a href="video-details.php" class="popup-video"><div class="videoes__play--btn"><i class="fas fa-play"></i></div></a> -->
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -539,15 +564,15 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                <h3 class="title tgcommon__hover"><a href="blog-details.php">İnformasiya düşüncəmizə necə təsir edir?</a></h3>
+                                <h3 class="title tgcommon__hover"><a href="video-details.php">İnformasiya düşüncəmizə necə təsir edir?</a></h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-2.jpg" alt="img"></a>
-                                <a href="https://www.youtube.com/watch?v=FT3ODSg1GFE" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/news-2.jpg" alt="img"></a>
+                                <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -557,15 +582,15 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                <h3 class="title tgcommon__hover"><a href="blog-details.php">Ekologiya: təbiətə münasibətin dəyişməsi</a></h3>
+                                <h3 class="title tgcommon__hover"><a href="video-details.php">Ekologiya: təbiətə münasibətin dəyişməsi</a></h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
-                                <a href="https://www.youtube.com/watch?v=FT3ODSg1GFE" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
+                                <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -575,15 +600,15 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                <h3 class="title tgcommon__hover"><a href="blog-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h3>
+                                <h3 class="title tgcommon__hover"><a href="video-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-11.jpg" alt="img"></a>
-                                <a href="https://www.youtube.com/watch?v=FT3ODSg1GFE" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="vide-details.php"><img src="assets/img/imgdatas/news-11.jpg" alt="img"></a>
+                                <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -593,7 +618,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                <h3 class="title tgcommon__hover"><a href="blog-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h3>
+                                <h3 class="title tgcommon__hover"><a href="video-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h3>
                             </div>
                         </div>
                     </div>                  
@@ -841,7 +866,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="section__read-more text-start text-sm-end">
-                                <a href="blog.html">Bütün videolar<i class="far fa-long-arrow-right"></i></a>
+                                <a href="conversation.html">Bütün videolar<i class="far fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -850,16 +875,16 @@
                     <div class="col-xl-8 col-lg-7 col-md-12 col-12">
                         <div class="video__post-item big-post video__big-post">
                             <div class="video__post-thumb video__post-box">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/socialmedia.jpg" alt="img"></a>
-                                <a href="https://www.youtube.com/watch?v=FT3ODSg1GFE" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="https://www.youtube.com/embed/vHrnL-feEAs"><img src="assets/img/imgdatas/socialmedia.jpg" alt="img"></a>
+                                <a href="https://www.youtube.com/embed/vHrnL-feEAs" class="popup-video"><i class="fas fa-play"></i></a>
                             </div>
                             <div class="video__post-content">
                                 <ul class="tgbanner__content-meta list-wrap">
                                     <li class="category"><a href="blog.html">Sosial Media</a></li>
-                                    <li> <a href="blog.html">Samir Kərimov</a></li>
+                                    <!-- <li> <a href="blog.html">Samir Kərimov</a></li> -->
                                     <li>nov 21, 2022</li>
                                 </ul>
-                                <h3 class="title tgcommon__hover"><a href="blog-details.php">
+                                <h3 class="title tgcommon__hover"><a href="video-details.php">
                                     SOSİAL ŞƏBƏKƏLƏR KÜTLƏVİ ZEHNIYYƏT FORMALAŞDIRIR</a></h3>
                             </div>
                         </div>
@@ -1081,7 +1106,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
-                                <a href="#" class="addWish"><i class="fal fa-heart"></i></a>
+                                <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                 <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
@@ -1099,7 +1124,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
-                                <a href="#" class="addWish"><i class="fal fa-heart"></i></a>
+                                <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                 <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
@@ -1117,7 +1142,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
-                                <a href="#" class="addWish"><i class="fal fa-heart"></i></a>
+                                <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                 <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
