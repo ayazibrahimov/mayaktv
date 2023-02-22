@@ -761,6 +761,8 @@ input[type=color] {
 }
 .offCanvas__contact {
   margin: auto 0 0;
+  /* height: 66%; */
+  /* align-items: flex-end; */
 }
 @media (max-width: 1500px) {
   .offCanvas__contact {
@@ -2542,6 +2544,14 @@ input[type=color] {
   /* color: var(--tg-heading-color); */
   /* text-transform: uppercase; */
 }
+
+@media screen and (max-width:1201px){
+  .tgbanner__content-meta li {
+    margin-right: 0px;
+    padding-right: 0px;
+  }
+}
+
 .tgbanner__content-meta li .by {
   color: #d8d8d8;
 }
@@ -3942,16 +3952,23 @@ input[type=color] {
   object-fit: cover;
   object-position: center;
 }
+@media (max-width: 991px) {
+  .video__post-item.big-post img{
+    height: 17rem;
+  }
+}
 
 .video__big-post{
   height: 34rem;
 }
 
-/* @media (max-width: 1199.98px) {
-  .video__post-item.big-post img {
-    height: 410px;
+ @media (max-width: 991px) {
+  .video__big-post{
+    height: 23.5rem;
   }
 }
+
+/*
 @media (max-width: 767.98px) {
   .video__post-item.big-post img {
     height: 200px;
@@ -3995,6 +4012,13 @@ input[type=color] {
   color: var(--tg-common-color-white);
 }
 
+@media (max-width: 768px) {
+  .video__post-item.big-post .popup-video{
+    width: 60px;
+    height: 60px;
+  }
+}
+
 .video__post-content {
    padding-right: 10px;
 }
@@ -4033,11 +4057,17 @@ input[type=color] {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  height: 6rem;
+  height: 5rem;
   justify-content: space-between;
   margin-bottom: 1rem;
   /* position: relative;
   align-items: center; */
+}
+
+@media screen and (max-width:450px){
+  .video__post-item.side-post {
+    margin-bottom: 0rem;
+  }
 }
 
 .video__scroll{
@@ -4108,10 +4138,10 @@ input[type=color] {
   flex: 1 0 auto;
   margin: 0 22px 0 0;
 }
-@media (max-width: 1199.98px) {
-  /* .video__post-item.side-post .video__post-thumb {
-    width: 120px;
-  } */
+@media (max-width: 450px) {
+  .video__post-item.side-post .video__post-thumb {
+    margin: 0 10px 0 0;
+  }
 }
 /* @media (max-width: 767.98px) {
   .video__post-item.side-post .video__post-thumb {
@@ -6877,7 +6907,7 @@ blockquote .blockquote-cite .info span {
   margin-top: 105px;
 }
 
-@media screen and (max-width:1201px){
+.video__post-item.side-post {
   .margin-top-57{
      margin-top: 0px;
   }
@@ -6886,6 +6916,13 @@ blockquote .blockquote-cite .info span {
 .video__scroll--image{
   height: 6rem;
 }
+
+@media screen and (max-width:450px){
+  .video__scroll--image{
+    width: 115px !important;
+  }
+}
+
 
 .stories-post__thumb--new img{
   height: 100%;
@@ -7083,6 +7120,49 @@ blockquote .blockquote-cite .info span {
 .video__detail--youtobe iframe{
   width: 100%;
 }
+
+
+.video__post--displayed{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+@media screen and (max-width:450px){
+  .video__post--displayed{
+    justify-content: flex-start;
+    padding-right: 4px !important;
+  }
+}
+
+
+
+.offcanvas__box{
+  height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

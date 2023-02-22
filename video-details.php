@@ -163,7 +163,7 @@
                             </div> -->
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-5 col-md-6">
+                    <div class="col-xl-4 col-lg-5 col-md-7">
                         <aside class="blog-sidebar">
                             <div class="widget sidebar-widget">
                             <h4 class="widget-title">Xəbər Lenti</h4>

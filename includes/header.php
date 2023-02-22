@@ -163,20 +163,22 @@
         <div class="offCanvas__wrap">
             <div class="offCanvas__body">
                 <div class="offCanvas__toggle"><i class="flaticon-addition"></i></div>
+                
+                <div class="offcanvas__box">
                 <div class="offCanvas__content">
                     <div class="offCanvas__logo logo">
                         <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/mayakLogo.svg" alt="Logo"></a>
                         <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/mayak-white.svg" alt="Logo"></a>
                     </div>
                     <p>Change how the world works with Biotellus, made for ecology.</p>
-                    <ul class="offCanvas__instagram list-wrap">
+                    <!-- <ul class="offCanvas__instagram list-wrap">
                         <li><a href="assets/img/blog/blog01.jpg" class="popup-image"><img src="assets/img/blog/blog01.jpg" alt="img"></a></li>
                         <li><a href="assets/img/blog/blog02.jpg" class="popup-image"><img src="assets/img/blog/blog02.jpg" alt="img"></a></li>
                         <li><a href="assets/img/blog/blog03.jpg" class="popup-image"><img src="assets/img/blog/blog03.jpg" alt="img"></a></li>
                         <li><a href="assets/img/blog/blog04.jpg" class="popup-image"><img src="assets/img/blog/blog04.jpg" alt="img"></a></li>
                         <li><a href="assets/img/blog/blog05.jpg" class="popup-image"><img src="assets/img/blog/blog05.jpg" alt="img"></a></li>
                         <li><a href="assets/img/blog/blog06.jpg" class="popup-image"><img src="assets/img/blog/blog06.jpg" alt="img"></a></li>
-                    </ul>
+                    </ul> -->
                 </div>
                 <div class="offCanvas__contact">
                     <h4 class="title">Bizimlə Əlaqə</h4>
@@ -192,6 +194,8 @@
                         <li><a href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok"></i></a></li>
                     </ul>
                 </div>
+                </div>
+
             </div>
         </div>
         <div class="offCanvas__overlay"></div>

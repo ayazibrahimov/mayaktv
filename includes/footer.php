@@ -24,17 +24,16 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="copyright__text">
-                            <p>Copyright & Design By <span>@Theme_Genix</span> - 2022</p>
+                            <p>Copyright & Design By <span>@Abasoft</span> - 2023</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="copyright__menu">
-                            <ul class="list-wrap">
-                                <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Terms of Use</a></li>
-                                <li><a href="#">Advertise</a></li>
-                                <li><a href="#">Store</a></li>
-                            </ul>
+                        <ul class="offCanvas__contact-list list-wrap">
+                        <li><i class="fas fa-envelope-open"></i><a href="mailto:mayaktvofficial@gmail.com">mayaktvofficial@gmail.com</a></li>
+                        <li><i class="fas fa-phone"></i><a href="tel:+994 70 379 97 02">+994 70 379 97 02</a></li>
+                        <!-- <li><i class="fas fa-map-marker-alt"></i> 12/A, New Booston, NYC</li> -->
+                    </ul>
                         </div>
                     </div>
                 </div>

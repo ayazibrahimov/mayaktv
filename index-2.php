@@ -283,7 +283,7 @@
                 </div>
             </div>
         </section> -->
-        <section class="trending-post-area section__hover-line pt-35 pb-40">
+        <section class="trending-post-area section__hover-line pt-35 pb-20">
             <div class="container">
                 <div class="section__title-wrap mb-40">
                     <div class="row align-items-end">
@@ -552,7 +552,7 @@
                             <div class="stories-post__thumb tgImage__hover">
                                 <a href="video-details.php">
                                     <img src="assets/img/imgdatas/news-1.jpg" alt="img">
-                                    <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
+                                    <div class="videoes__play--btn"><i class="fas fa-play"></i></div></a>
                                 </a>
                                 <!-- <a href="video-details.php" class="popup-video"><div class="videoes__play--btn"><i class="fas fa-play"></i></div></a> -->
                             </div>
@@ -571,8 +571,11 @@
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="video-details.php"><img src="assets/img/imgdatas/news-2.jpg" alt="img"></a>
-                                <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="video-details.php">
+                                    <img src="assets/img/imgdatas/news-2.jpg" alt="img">
+                                   <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                               </a>
+                                <!-- <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a> -->
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -589,8 +592,11 @@
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="video-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
-                                <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="video-details.php">
+                                    <img src="assets/img/imgdatas/qaraZire.jpeg" alt="img">
+                                    <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                </a>
+                                <!-- <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a> -->
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -607,8 +613,11 @@
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="vide-details.php"><img src="assets/img/imgdatas/news-11.jpg" alt="img"></a>
-                                <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a>
+                                <a href="vide-details.php">
+                                    <img src="assets/img/imgdatas/news-11.jpg" alt="img">
+                                    <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                </a>
+                                <!-- <a href="video-details.php" class="popup-video"><i class="fas fa-play"></i></a> -->
                             </div>
                             <div class="stories-post__content video__post-content">
                             <ul class="tgbanner__content-meta list-wrap">
@@ -645,7 +654,9 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="section__read-more text-start text-sm-end">
-                                <a href="news.php">Oxşar Xəbərlər<i class="far fa-long-arrow-right"></i></a>
+                                <a href="news.php">Oxşar Xəbərlər<i class="far fa-long-arrow-right"></i>
+                                 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -657,7 +668,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer1.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -665,10 +678,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -678,7 +691,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer2.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -686,10 +701,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -699,7 +714,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer3.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -707,10 +724,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -720,7 +737,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer4.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -728,10 +747,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -741,7 +760,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer5.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -749,10 +770,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -762,7 +783,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer1.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -770,10 +793,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -783,7 +806,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer2.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -791,10 +816,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -804,7 +829,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/answer3.png" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -812,10 +839,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -825,7 +852,9 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img"></a>
+                                        <a href="video-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img">
+                                        <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
+                                        </a>
                                         <span class="is_trend"><i class="fas fa-bolt"></i></span>
                                     </div>
                                     <div class="trending__post-content">
@@ -833,10 +862,10 @@
                                             <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
-                                        <h4 class="title tgcommon__hover"><a href="blog-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
+                                        <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
                                         <ul class="post__activity list-wrap">
                                             <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
+                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
                                             <li><i class="fal fa-share-alt"></i> 29</li>
                                         </ul>
                                     </div>
@@ -866,7 +895,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="section__read-more text-start text-sm-end">
-                                <a href="conversation.html">Bütün videolar<i class="far fa-long-arrow-right"></i></a>
+                                <a href="conversation.php">Bütün videolar<i class="far fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -875,7 +904,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-12 col-12">
                         <div class="video__post-item big-post video__big-post">
                             <div class="video__post-thumb video__post-box">
-                                <a href="https://www.youtube.com/embed/vHrnL-feEAs"><img src="assets/img/imgdatas/socialmedia.jpg" alt="img"></a>
+                                <a href="https://www.youtube.com/embed/vHrnL-feEAs"><img src="assets/img/imgdatas/answer2.png" alt="img"></a>
                                 <a href="https://www.youtube.com/embed/vHrnL-feEAs" class="popup-video"><i class="fas fa-play"></i></a>
                             </div>
                             <div class="video__post-content">
@@ -912,7 +941,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="section__read-more text-start text-sm-end">
-                                <a href="news.php">Oxşar Xəbərlər <i class="far fa-long-arrow-right"></i></a>
+                                <a href="conversation.php">Oxşar Xəbərlər <i class="far fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -921,7 +950,7 @@
                     <div class="col-xl-6 col-lg-8">
                         <div class="handpicked__item big-post">
                             <div class="handpicked__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-5.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/news-5.jpg" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -931,12 +960,12 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                <h2 class="title tgcommon__hover"><a href="blog-details.php">Qloballaşan biznes və rəqəmsallaşmanın gətirdiyi imkanlar</a></h2>
+                                <h2 class="title tgcommon__hover"><a href="video-details.php">Qloballaşan biznes və rəqəmsallaşmanın gətirdiyi imkanlar</a></h2>
                             </div>
                         </div>
                         <div class="handpicked__item big-post">
                             <div class="handpicked__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-5.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/news-5.jpg" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -946,7 +975,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                <h2 class="title tgcommon__hover"><a href="blog-details.php">Qloballaşan biznes və rəqəmsallaşmanın gətirdiyi imkanlar</a></h2>
+                                <h2 class="title tgcommon__hover"><a href="video-details.php">Qloballaşan biznes və rəqəmsallaşmanın gətirdiyi imkanlar</a></h2>
                             </div>
                         </div>
                     </div>
@@ -956,7 +985,7 @@
                                 <div class="col-xl-6 col-lg-4 col-md-6">
                                     <div class="handpicked__item small-post">
                                         <div class="handpicked__thumb tgImage__hover">
-                                            <a href="blog-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
+                                            <a href="video-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
                                         </div>
                                         <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -966,14 +995,14 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-lg-4 col-md-6">
                                     <div class="handpicked__item small-post">
                                         <div class="handpicked__thumb tgImage__hover">
-                                            <a href="blog-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
+                                            <a href="video-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
                                         </div>
                                         <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -983,14 +1012,14 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-lg-4 col-md-6 margin-top-57">
                                     <div class="handpicked__item small-post">
                                         <div class="handpicked__thumb tgImage__hover">
-                                            <a href="blog-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
+                                            <a href="video-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
                                         </div>
                                         <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1000,14 +1029,14 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-lg-4 col-md-6 margin-top-57">
                                     <div class="handpicked__item small-post">
                                         <div class="handpicked__thumb tgImage__hover">
-                                            <a href="blog-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
+                                            <a href="video-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
                                         </div>
                                         <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1017,7 +1046,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -1031,13 +1060,13 @@
         <!-- handpicked-post-area-end -->
 
         <!-- newsletter-area -->
-        <section class="stories-post-area white-bg section__hover-line pt-75 pb-40">
+        <section class="stories-post-area white-bg section__hover-line pt-40 pb-40">
             <div class="container">
                 <div class="section__title-wrap mb-40">
                     <div class="row align-items-end">
                         <div class="col-sm-6">
                             <div class="section__title">
-                                <span class="section__sub-title">Stories</span>
+                                <!-- <span class="section__sub-title">Stories</span> -->
                                 <h3 class="section__main-title">Sən bacararsan</h3>
                             </div>
                         </div>
@@ -1052,7 +1081,7 @@
                     <div class="col-md-6">
                         <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/youcando1.png" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1062,14 +1091,14 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                     <div class="stories-post__item">
                             <div class="stories-post__thumb tgImage__hover">
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/youcando2.png" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1079,7 +1108,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                         </div>
                     </div>
@@ -1089,7 +1118,7 @@
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
                                 <a href="#" class="addWish"><i class="fal fa-heart"></i></a>
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/youcando3.png" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1099,7 +1128,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                         </div>
                     </div>
@@ -1107,7 +1136,7 @@
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
                                 <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/answer3.png" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1117,7 +1146,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                         </div>
                     </div>
@@ -1125,7 +1154,7 @@
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
                                 <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/answer2.png" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1135,7 +1164,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                         </div>
                     </div>
@@ -1143,7 +1172,7 @@
                         <div class="trending__post stories-small-post__item">
                             <div class="trending__post-thumb tgImage__hover">
                                 <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                <a href="blog-details.php"><img src="assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                <a href="video-details.php"><img src="assets/img/imgdatas/answer1.png" alt="img"></a>
                             </div>
                             <div class="handpicked__content">
                                          <ul class="tgbanner__content-meta list-wrap">
@@ -1153,7 +1182,7 @@
                                                July 12, 2021
                                              </div>
                                          </ul>
-                                            <h4 class="title tgcommon__hover"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
+                                            <h4 class="title tgcommon__hover"><a href="video-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                         </div>
                         </div>
                     </div>
@@ -1162,7 +1191,7 @@
             </div>
         </section>
         <!-- newsletter-area-end -->
-        <section class="newsletter-area pb-80">
+        <section class="newsletter-area pb-40">
             <div class="container">
                 <div class="newsletter__wrap">
                     <div class="row align-items-center">
