@@ -32,12 +32,14 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-1">
                         <div class="blog-details-social">
-                            <ul class="list-wrap">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fas fa-share"></i></a></li>
+                            <ul class="list-wrap"> 
+                                <li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.whatsapp.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                                <li><a href="https://www.tiktok.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+                                <li><a href="https://www.linkedin.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.twitter.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fas fa-share"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -45,7 +47,7 @@
                         <div class="blog-details-wrap">
                             <ul class="tgbanner__content-meta list-wrap">
                                 <li class="category"><a href="blog.html">Kino</a></li>
-                                <li><span class="by">Müəllif</span> <a href="blog.html">Samir Kərimov</a></li>
+                                <!-- <li><span class="by">Müəllif</span> <a href="blog.html">Samir Kərimov</a></li> -->
                                 <li>22 Noyabr 2022</li>
                                 <li>23 Baxış</li>
                             </ul>
@@ -166,7 +168,7 @@
                                         </p>
                                     </div>              
                             </div>
-                            <div class="blog-details-bottom">
+                            <!-- <div class="blog-details-bottom">
                                 <div class="row align-items-baseline">
                                     <div class="col-xl-6 col-md-7">
                                         <div class="blog-details-tags">
@@ -190,7 +192,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- <div class="blog-avatar-wrap">
                                 <div class="blog-avatar-img">
                                     <a href="#"><i class="far fa-check"></i><img src="assets/img/others/avatar.png" alt="img"></a>

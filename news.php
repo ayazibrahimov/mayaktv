@@ -42,7 +42,6 @@
                                 </ul> -->
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
@@ -60,7 +59,6 @@
                             <div class="stories-post__content video__post-content">
                                    <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
@@ -80,18 +78,13 @@
                             <div class="trending__post-content">
                                    <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">Scientists speculate that ours might not be held</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.5k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 32</li>
-                                </ul>
+
                             </div>
                         </div>
                     </div>
@@ -103,18 +96,13 @@
                             <div class="trending__post-content">
                                    <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">The Multiverse is the collection of alternate universes</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.5k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 32</li>
-                                </ul>
+
                             </div>
                         </div>
                     </div>
@@ -126,18 +114,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>
@@ -149,18 +132,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>
@@ -172,18 +150,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>
@@ -195,18 +168,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>
@@ -218,18 +186,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>
@@ -241,18 +204,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>
@@ -264,18 +222,13 @@
                             <div class="trending__post-content">
                                   <ul class="tgbanner__content-meta list-wrap">
                                      <li class="category video__news__category">Sosial</li>
-                                     <li><span class="by">By</span> <a href="blog.html">alonso d.</a></li>
                                      <div class="date video__news--date">
                                      <i class="fa-solid fa-clock"></i>
                                        July 12, 2021
                                      </div>
                                    </ul>
                                 <h4 class="title tgcommon__hover"><a href="blog-details.php">That share a universal hierarchy a large variety of these</a></h4>
-                                <ul class="post__activity list-wrap">
-                                    <li><i class="fal fa-signal"></i> 1.2k</li>
-                                    <li><a href="blog-details.php"><i class="fal fa-comment-dots"></i> 150</a></li>
-                                    <li><i class="fal fa-share-alt"></i> 26</li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>

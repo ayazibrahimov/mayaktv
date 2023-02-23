@@ -283,7 +283,7 @@
                 </div>
             </div>
         </section> -->
-        <section class="trending-post-area section__hover-line pt-35 pb-20">
+        <section class="trending-post-area section__hover-line pt-35">
             <div class="container">
                 <div class="section__title-wrap mb-40">
                     <div class="row align-items-end">
@@ -321,11 +321,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -348,11 +343,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -375,11 +365,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -402,11 +387,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi - Canlı</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -428,11 +408,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -455,11 +430,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -482,11 +452,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -509,11 +474,6 @@
                                     </div>
                                 </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi - Canlı</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -675,15 +635,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -698,15 +653,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -721,15 +671,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -744,15 +689,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -767,15 +707,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -790,15 +725,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -813,15 +743,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -836,15 +761,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -859,15 +779,10 @@
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
-                                            <li class="category"><a href="blog.html">Ailə&Məişət</a></li>
+                                            <li class="category"><a href="blog.html">Ailə məişət</a></li>
                                             <li><a href="blog.html">Fərid Abdullah</a></li>
                                         </ul>
                                         <h4 class="title tgcommon__hover"><a href="video-details.php">Xəyanət mövzusu - Fərid Abdullahdan gözəl izah</a></h4>
-                                        <ul class="post__activity list-wrap">
-                                            <li><i class="fal fa-signal"></i> 1.0k</li>
-                                            <li><a href="video-details.php"><i class="fal fa-comment-dots"></i> 128</a></li>
-                                            <li><i class="fal fa-share-alt"></i> 29</li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
