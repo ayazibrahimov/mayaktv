@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="footer__logo logo">
-                            <a href="index-2.php"><img src="assets/img/imgdatas/mayak-white.svg" alt="Logo"></a>
+                            <a href="index-2.php"><img src="assets/img/imgdatas/Mayak_logo_white.svg" alt="Logo"></a>
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-8">

@@ -58,10 +58,10 @@
                             </div> -->
                             <div class="header__top-logo logo">
                                 <a href="index-2.php" class="logo-dark">
-                                    <img src="assets/img/imgdatas/mayakLogo.svg" alt="Logo">
+                                    <img src="assets/img/imgdatas/Mayak_logo_black.svg" alt="Logo">
                                 </a>
                                 <a href="index-2.php" class="logo-light">
-                                    <img src="assets/img/imgdatas/mayak-white.svg" alt="Logo">
+                                    <img src="assets/img/imgdatas/Mayak_logo_white.svg" alt="Logo">
                                 </a>
                             </div>
                         </div>

@@ -1753,7 +1753,7 @@ input[type=color] {
 }
 .logo a img {
   max-width: 160px;
-  width: 100%;
+  width: 10rem;
 }
 .logo a.logo-light {
   display: none;

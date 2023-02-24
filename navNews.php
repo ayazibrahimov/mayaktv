@@ -10,7 +10,7 @@
                         <div class="col-sm-6">
                             <div class="section__title">
                                 <!-- <span class="section__sub-title">Popular</span> -->
-                                <h3 class="section__main-title">Bunu bilməlisiniz</h3>
+                                <h3 class="section__main-title">Təmiz Söhət</h3>
                             </div>
                         </div>
                         <div class="col-sm-6">
