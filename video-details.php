@@ -43,13 +43,16 @@
                     </div> -->
                     <div class="col-xl-8 col-lg-7">
                         <div class="blog-details-wrap">
-                            <ul class="tgbanner__content-meta list-wrap">
-                                <li class="category"><a href="blog.html">Kino</a></li>
-                                <li><span class="by">Müəllif</span> <a href="blog.html">Samir Kərimov</a></li>
+                            <h2 class="title">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</h2>
+                            <div class="blog-details-thumb">
+                                <img src="assets/img/imgdatas/blog__detail-1.jpg" alt="">
+                            </div>
+                            <ul class="tgbanner__content-meta tgbanner__content-meta--width x list-wrap">
+                                <li class="category"><a>Kino</a></li>
+                                <!-- <li><span class="by">Müəllif</span> <a href="blog.html">Samir Kərimov</a></li> -->
                                 <li>22 Noyabr 2022</li>
                                 <li>23 Baxış</li>
                             </ul>
-                            <h2 class="title">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</h2>
                             <div class="blog-details-content">
                                 <!-- <h4 class="blog-details__header--1"> " <span>Kalmar oyunu</span> "</h4> -->
                                 <div class="blog-details-inner"> <h3 class="inner-title">"Kalmar oyunu"</h3> </div>
@@ -114,11 +117,16 @@
                                         <div class="blog-details-share">
                                             <h6 class="share-title">Paylaş:</h6>
                                             <ul class="list-wrap mb-0">
-                                                <li><a href="/#facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="/#twitter"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="/#linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-facebook-f fa-lg"></i></a></li>
+                                                <li><a href="https://www.instagram.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-instagram fa-lg"></i></a></li>
+                                                <li><a href="https://www.whatsapp.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-whatsapp fa-lg"></i></a></li>
+                                                <li><a href="https://www.tiktok.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-tiktok fa-lg"></i></a></li>
+                                                <li><a href="https://www.youtube.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-youtube fa-lg"></i></a></li>
+                                                <li><a href="https://www.telegram.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-telegram  fa-lg"></i></a></li>
+                                                <li><a href="https://www.linkedin.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-linkedin-in  fa-lg"></i></a></li>
+                                                <li><a href="https://www.telegram.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-telegram  fa-lg"></i></a></li>
+                                                <li><a href="https://www.twitter.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-twitter  fa-lg"></i></a></li>
                                                 <!-- <li><a href="#"><i class="fab fa-behance"></i></a></li> -->
-                                                <li><a href="/#youtube"><i class="fab fa-youtube"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>

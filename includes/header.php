@@ -67,12 +67,12 @@
                         </div>
                     </div>
                     <div class="col-xl-9 col-lg-8">
-                        <div class="footer__social">
+                        <div class="footer__social footer__social--color">
                             <ul class="list-wrap">
-                                <li><a href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f"></i> Facebook <span>25K</span></a></li>
-                                <li><a href="https://www.instagram.com/mayaktvaz/"><i class="fab fa-instagram"></i> Instagram <span>44K</span></a></li>
-                                <li><a href="https://www.youtube.com/channel/UCR_UrCHiwmjYr87C2e8Ujtw"><i class="fab fa-youtube"></i> Youtube <span>91K</span></a></li>
-                                <li><a href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok"></i> Tiktok <span>91K</span></a></li>
+                                <li><a class='footer__social--color---major footer__social--color---a' href="https://www.facebook.com/mayaktvaz"><i class="fab fa-facebook-f footer__social--color---i"></i> Facebook </a></li>
+                                <li><a class='footer__social--color---major footer__social--color---a' href="https://www.instagram.com/mayaktvaz/"><i class="fab fa-instagram footer__social--color---i"></i> Instagram </a></li>
+                                <li><a class='footer__social--color---major footer__social--color---a' href="https://www.youtube.com/channel/UCR_UrCHiwmjYr87C2e8Ujtw"><i class="fab fa-youtube footer__social--color---i"></i> Youtube </a></li>
+                                <li><a class='footer__social--color---major footer__social--color---a' href="https://www.tiktok.com/@mayaktvaz"><i class="fa-brands fa-tiktok footer__social--color---i"></i> Tiktok </a></li>
                             </ul>
                         </div>
                     </div>
@@ -87,8 +87,8 @@
                         <div class="tgmenu__wrap">
                             <nav class="tgmenu__nav">
                                 <div class="logo d-block d-md-none">
-                                    <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/mayakLogo.svg" alt="Logo"></a>
-                                    <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/mayak-white.svg" alt="Logo"></a>
+                                    <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/Mayak_logo_black.svg" alt="Logo"></a>
+                                    <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/Mayak_logo_white.svg" alt="Logo"></a>
                                 </div>
                                 <div class="offcanvas-toggle">
                                     <a href="#"><i class="flaticon-menu-bar"></i></a>
@@ -116,9 +116,16 @@
                                                 <span class="switcher__mode"></span>
                                                 <span class="switcher__btn dark-mode"><i class="flaticon-moon"></i></span>
                                             </nav>
+                                        </li><!-- <li class="user"><a href="#"><i class="far fa-user"></i></a></li> -->
+                                        
+                                        <li class="header-search">
+                                            <a href="#" class="searching--btn---data"><i class="far fa-search"></i></a>
+                                            <div class="header-search--form">
+                                                <form action="#">
+                                                    <input class="searching--input---data" type="text" placeholder="Search here...">
+                                                </form>
+                                            </div>
                                         </li>
-                                        <!-- <li class="user"><a href="#"><i class="far fa-user"></i></a></li> -->
-                                      
                                     </ul>
                                 </div>
                             </nav>
@@ -129,8 +136,8 @@
                             <nav class="tgmobile__menu-box">
                                 <div class="close-btn"><i class="fas fa-times"></i></div>
                                 <div class="nav-logo">
-                                <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/mayakLogo.svg" alt="Logo"></a>
-                                    <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/mayak-white.svg" alt="Logo"></a>
+                                    <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/Mayak_logo_black.svg" alt="Logo"></a>
+                                    <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/Mayak_logo_white.svg" alt="Logo"></a>
                                 </div>
                                 <div class="tgmobile__search">
                                     <form action="#">
@@ -167,8 +174,8 @@
                 <div class="offcanvas__box">
                 <div class="offCanvas__content">
                     <div class="offCanvas__logo logo">
-                        <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/mayakLogo.svg" alt="Logo"></a>
-                        <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/mayak-white.svg" alt="Logo"></a>
+                        <a href="index-2.php" class="logo-dark"><img src="assets/img/imgdatas/Mayak_logo_black.svg" alt="Logo"></a>
+                        <a href="index-2.php" class="logo-light"><img src="assets/img/imgdatas/Mayak_logo_white.svg" alt="Logo"></a>
                     </div>
                     <p>Change how the world works with Biotellus, made for ecology.</p>
                     <!-- <ul class="offCanvas__instagram list-wrap">
@@ -180,7 +187,7 @@
                         <li><a href="assets/img/blog/blog06.jpg" class="popup-image"><img src="assets/img/blog/blog06.jpg" alt="img"></a></li>
                     </ul> -->
                 </div>
-                <div class="offCanvas__contact">
+                <div class="offCanvas__contact mt-5">
                     <h4 class="title">Bizimlə Əlaqə</h4>
                     <ul class="offCanvas__contact-list list-wrap">
                         <li><i class="fas fa-envelope-open"></i><a href="mailto:mayaktvofficial@gmail.com">mayaktvofficial@gmail.com</a></li>

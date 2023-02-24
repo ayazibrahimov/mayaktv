@@ -38,15 +38,17 @@
                                 <li><a href="https://www.whatsapp.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                                 <li><a href="https://www.tiktok.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-tiktok"></i></a></li>
                                 <li><a href="https://www.linkedin.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.telegram.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-telegram"></i></a></li>
+                                <li><a href="https://www.youtube.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-youtube"></i></a></li>
                                 <li><a href="https://www.twitter.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fas fa-share"></i></a></li>
+                                <!-- <li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i class="fas fa-share"></i></a></li> -->
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-8 col-lg-7">
                         <div class="blog-details-wrap">
-                            <ul class="tgbanner__content-meta list-wrap">
-                                <li class="category"><a href="blog.html">Kino</a></li>
+                            <ul class="tgbanner__content-meta tgbanner__content-meta--width list-wrap">
+                                <li class="category"><a>Kino</a></li>
                                 <!-- <li><span class="by">Müəllif</span> <a href="blog.html">Samir Kərimov</a></li> -->
                                 <li>22 Noyabr 2022</li>
                                 <li>23 Baxış</li>
@@ -168,19 +170,19 @@
                                         </p>
                                     </div>              
                             </div>
-                            <!-- <div class="blog-details-bottom">
+                            <div class="blog-details-bottom">
                                 <div class="row align-items-baseline">
                                     <div class="col-xl-6 col-md-7">
                                         <div class="blog-details-tags">
                                             <ul class="list-wrap mb-0">
-                                                <li><a href="#">technology</a></li>
-                                                <li><a href="#">finance</a></li>
-                                                <li><a href="#">business</a></li>
+                                                <li><a href="navNews.php">TEXNOLOGİYA</a></li>
+                                                <li><a href="navNews.php">DİN</a></li>
+                                                <li><a href="navNews.php">İQTİSADİYYAT</a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-md-5">
-                                        <div class="blog-details-share">
+                                        <!-- <div class="blog-details-share">
                                             <h6 class="share-title">Share Now:</h6>
                                             <ul class="list-wrap mb-0">
                                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -189,10 +191,10 @@
                                                 <li><a href="#"><i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                             </ul>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
                             <!-- <div class="blog-avatar-wrap">
                                 <div class="blog-avatar-img">
                                     <a href="#"><i class="far fa-check"></i><img src="assets/img/others/avatar.png" alt="img"></a>

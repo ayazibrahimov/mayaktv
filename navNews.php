@@ -10,7 +10,7 @@
                         <div class="col-sm-6">
                             <div class="section__title">
                                 <!-- <span class="section__sub-title">Popular</span> -->
-                                <h3 class="section__main-title">Təmiz Söhət</h3>
+                                <h3 class="section__main-title">Xəbərlər</h3>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -27,7 +27,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="./assets/img/imgdatas/news-12.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -46,7 +46,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -65,7 +65,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-10.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -83,8 +83,8 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="./assets/img/imgdatas/news-12.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        <a href="blog-details.php"><img src="./assets/img/imgdatas/news-1.jpg" alt="img"></a>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -94,7 +94,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi</a></h4>
+                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">İnformasiya düşüncəmizə necə təsir edir?</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -102,8 +102,8 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-2.jpg" alt="img"></a>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -113,7 +113,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
+                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Ekologiya: təbiətə münasibətin dəyişməsi</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -121,8 +121,8 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-10.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-4.jpg" alt="img"></a>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -132,7 +132,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
+                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -140,8 +140,8 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="./assets/img/imgdatas/news-12.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        <a href="blog-details.php"><img src="./assets/img/imgdatas/news-5.jpg" alt="img"></a>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -151,7 +151,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Autizmin yaranma səbəbləri , erkən əlamətləri və müalicəsi</a></h4>
+                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Qloballaşan biznes və rəqəmsallaşmanın gətirdiyi imkanlar</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -159,8 +159,8 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-11.jpg" alt="img"></a>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -170,7 +170,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Qara zirə yağı - Ölümdən başqa hər dərdin çarəsi</a></h4>
+                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Narın inanılmaz faydaları və ZƏRƏRLƏRİ</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -178,8 +178,8 @@
                                 <div class="trending__post">
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
-                                        <a href="blog-details.php"><img src="assets/img/imgdatas/news-10.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        <a href="blog-details.php"><img src="assets/img/imgdatas/youcando1.png" alt="img"></a>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -189,7 +189,7 @@
                                       July 12, 2021
                                     </div>
                                 </ul>
-                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">Mədə xərçənginin ilkin əlamətləri və yaşama şansı</a></h4>
+                                        <h4 class="title tgcommon__hover navNews__title"><a href="blog-details.php">İqtisadi nəzəriyyələrin qüsurları - Gələcəyin iqtisadiyyatı necə olacaq?</a></h4>
                                     </div>
                                 </div>
                             </div>

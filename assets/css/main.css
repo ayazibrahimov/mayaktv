@@ -1437,6 +1437,7 @@ input[type=color] {
 @media (max-width: 991.98px) {
   .tg-header__area .mobile-nav-toggler {
     display: block;
+    padding-top: 6px;
   }
 }
 
@@ -1755,6 +1756,13 @@ input[type=color] {
   max-width: 160px;
   width: 10rem;
 }
+
+@media (max-width:600px){
+  .logo a img{
+    width: 8rem;
+  }
+}
+
 .logo a.logo-light {
   display: none;
 }
@@ -5541,7 +5549,7 @@ input[type=color] {
 }
 .blog-details-share .share-title {
   margin: 0 0;
-  font-size: 14px;
+  font-size: 18px;
 }
 .blog-details-share ul {
   display: -webkit-box;
@@ -7136,27 +7144,105 @@ blockquote .blockquote-cite .info span {
   }
 }
 
-
-
 .offcanvas__box{
   height: 100vh;
+}
+
+
+.footer__social--color ul li a i{
+  color: var(--tg-theme-primary);
+}
+
+.color-pink:hover{
+  color: #0d6efd;
+}
+
+.footer__social--color---a:hover{
+  color: black !important;
+}
+
+.footer__social--color---a-dark:hover{
+  color: yellow !important;
+}
+
+
+
+
+.popular__post-area .swiper-pagination-bullets{
+  bottom: 15px !important;
+}
+
+
+.tgbanner__content-meta .category a{
+  color: var(--tg-theme-primary);
+}
+
+.tgbanner__content-meta--width{
+  width: 20rem;
+}
+
+
+.header-search{
+  position: relative;
+}
+
+
+.searching--btn---data{
+  transition: all 0.3s ease-out 0s;
+}
+
+.header-search--form{
+  position: absolute;
+  /* display: none; */
+  top: 150%;
+  right: -50%;
+  display: none;
+  /* height: 2rem; */
+  /*
+  top: calc(100% + 20px);
+  right: 0;
+  width: 260px;
+  display: none;
+  box-shadow: rgb(25 25 25 / 4%) 0px 10px 15px;
+  z-index: 9;
+  */
+}
+
+
+.header-search--form---visible{
+  display: block; 
+  box-shadow: rgb(25 25 25 / 4%) 0px 10px 15px;
+  z-index: 9;
+}
+
+
+
+
+.header-search--form::before{
+  content: "\f002";
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: var(--tg-icon-font-family);
+    font-weight: 400;
+    line-height: 1;
+    font-size: 14px;
+    color: var(--tg-heading-color);
 }
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+.searching--input---data{
+  padding: 13px 20px 13px 40px;
+  height: 48px;
+  display: block;
+  /* width: 100%; */
+  border: none;
+  font-size: 14px;
+}
 
 
 

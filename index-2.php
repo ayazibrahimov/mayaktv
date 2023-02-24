@@ -109,7 +109,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-7.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -128,7 +128,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-8.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -147,7 +147,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-9.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -166,7 +166,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-7.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -185,7 +185,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-8.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -204,7 +204,7 @@
                                     <div class="trending__post-thumb tgImage__hover">
                                         <!-- <a href="#" class="addWish"><i class="fal fa-heart"></i></a> -->
                                         <a href="blog-details.php"><img src="assets/img/imgdatas/news-9.jpg" alt="img"></a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -310,7 +310,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                          </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -332,7 +332,7 @@
                                             <img src="assets/img/imgdatas/news-10.jpg" alt="img">
                                             <div class="videoes__play--btn"><i class="fas fa-play"></i></div> 
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -354,7 +354,7 @@
                                             <img src="assets/img/imgdatas/news-11.jpg" alt="img">
                                             <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -376,7 +376,7 @@
                                             <img src="assets/img/imgdatas/news-12.jpg" alt="img">
                                             <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -397,7 +397,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/qaraZire.jpeg" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -419,7 +419,7 @@
                                             <img src="assets/img/imgdatas/news-10.jpg" alt="img">
                                             <div class="videoes__play--btn"><i class="fas fa-play"></i></div> 
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -441,7 +441,7 @@
                                             <img src="assets/img/imgdatas/news-11.jpg" alt="img">
                                             <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -463,7 +463,7 @@
                                             <img src="assets/img/imgdatas/news-12.jpg" alt="img">
                                             <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                     <ul class="tgbanner__content-meta list-wrap">
@@ -631,7 +631,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer1.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -649,7 +649,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer2.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -667,7 +667,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer3.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -685,7 +685,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer4.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -703,7 +703,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer5.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -721,7 +721,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer1.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -739,7 +739,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer2.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -757,7 +757,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/answer3.png" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">
@@ -775,7 +775,7 @@
                                         <a href="video-details.php"><img src="assets/img/imgdatas/betray.jpg" alt="img">
                                         <div class="videoes__play--btn"><i class="fas fa-play"></i></div>
                                         </a>
-                                        <span class="is_trend"><i class="fas fa-bolt"></i></span>
+                                        
                                     </div>
                                     <div class="trending__post-content">
                                         <ul class="tgbanner__content-meta list-wrap">

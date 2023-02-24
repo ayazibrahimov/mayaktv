@@ -139,9 +139,11 @@ function tg_theme_toggler() {
     function toggleTheme() {
         if (localStorage.getItem('tg_theme_scheme') === 'dark') {
             tg_set_scheme('light');
+            $('.footer__social--color---major').addClass('footer__social--color---a')
 
         } else {
             tg_set_scheme('dark');
+            $('.footer__social--color---major').removeClass('footer__social--color---a')
         }
     }
 
